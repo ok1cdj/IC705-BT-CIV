@@ -14,3 +14,5 @@ TODO:
 * there is bug in data format when data mirroring to serial is used
 * not all modes of IC-705 are implemnented yet
 * improve display look and make code for M5Stack (bigger display)
+
+[![https://www.buymeacoffee.com/ok1cdj](https://img.shields.io/badge/Donate-Buy%20me%20a%20coffee-orange?style=for-the-badge)](https://www.buymeacoffee.com/ok1cdj)
